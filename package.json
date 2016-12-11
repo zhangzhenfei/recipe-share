@@ -1,0 +1,19 @@
+{
+  "name": "recipe-share",
+  "version": "1.0.0",
+  "description": "食谱分享网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzhenfei/recipe-share.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangzhenfei/recipe-share/issues"
+  },
+  "homepage": "https://github.com/zhangzhenfei/recipe-share#readme"
+}
